@@ -40,7 +40,7 @@ This Flutter mobile application demonstrates basic CRUD operations integrated wi
 ### ✏️ Edit Staff Page
 <img src="assets/editstaff.jpg" alt="Edit Staff" width="300"/>
 
-### ✏️ Delete Staff Page
+### ✏ Delete Staff Page
 <img src="assets/staffdeleted.jpg" alt="Edit Staff" width="300"/>
 
 ---
