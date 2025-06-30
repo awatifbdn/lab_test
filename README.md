@@ -1,16 +1,44 @@
-# lab_test
 
-A new Flutter project.
+**LAB TITLE:** Building a CRUD Application Using Firebase (INDIVIDUAL)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👤 Student's Information
 
-A few resources to get you started if this is your first Flutter project:
+- **Name:** NURUL AWATIF BINTI ABIDIN
+- **Matrix Number:** D20221101814
+- **Group:** B
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Project Overview
+
+This Flutter mobile application demonstrates basic CRUD operations integrated with Firebase Firestore. Users can create, read, update, and delete staff information in real time.
+
+---
+
+## ✨ Features
+
+- 🔄 Real-time data updates using Firestore
+- ➕ Add, ✏️ Edit, 🗑️ Delete staff entries
+- 🎨 Stylish UI with gradient background
+- 🔥 Firebase backend integration
+
+---
+
+## 🖼️ Screenshots
+
+### 🧑‍💼 Main Page
+<img src="assets/mainpage.jpg" alt="Main page" width="300"/>
+
+### 🧑‍💼 Staff List Page
+<img src="assets/stafflist.jpg" alt="Staff List" width="300"/>
+
+### ➕ Add Staff Page
+<img src="assets/addstaff.jpg" alt="Add Staff" width="300"/>
+
+### ✏️ Edit Staff Page
+<img src="assets/editstaff.jpg" alt="Edit Staff" width="300"/>
+
+---
+
